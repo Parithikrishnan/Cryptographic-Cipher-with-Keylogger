@@ -1,2 +1,2 @@
 # Cryptographic-Cipher-with-Keylogger
-This repository contains a Python-based project that integrates a cryptographic cipher with a keylogger. The keylogger captures keystrokes and securely store them using a robust cryptographic algorithm. This project is intended for educational purposes and ethical use only.
+This repository contains a Python-based project that integrates a cryptographic cipher with a keylogger. The keylogger captures keystrokes and securely store them in a text document and a Cryptographic algorithem which is ROT13 and to add extra complexity the plain text is not only converted into cipher text using ROT13 but also it adds special character to ensure that it is hard to break. This project is intended for educational purposes and ethical use only.
